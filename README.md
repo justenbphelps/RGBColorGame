@@ -8,5 +8,8 @@ The game is designed with an 'Easy' and a 'Hard' mode. The hard mode gives 6 dif
 
 Created with Vanilla Javascript
 
+Game can be seen and played here:
+https://codepen.io/Justenbphelps/full/NMQWXx/
+
 
 ![RGB Color Game on CodePen](http://res.cloudinary.com/justenphelpscom/image/upload/v1527303211/Screen_Shot_2018-05-25_at_7.52.55_PM.png "RGB Color Game")
