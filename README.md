@@ -1,8 +1,6 @@
 # RGBColorGame
 :rainbow: A RGB color guessing game
-
-
-#### A simple RGB color guessing game. 
+ 
 
 The game is designed with an 'Easy' and a 'Hard' mode. The hard mode gives 6 different options to guess from, and the easy mode gives three options.
 
